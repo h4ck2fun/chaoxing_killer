@@ -169,4 +169,4 @@ def passTask(clazzId,userId,jobId,objectId,duration,dtoken,chapterId,session):
 # 访问url 完成任务点
 def reqTask(taskUrl,session):
 	response = session.get(taskUrl,headers=header)
-	return response.content
+	return response.content 
