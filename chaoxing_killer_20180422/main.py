@@ -38,4 +38,4 @@ for i in range(len(taskLink)):
 		except Exception,e:
 			print '[+] oh.. something wrong',e
 		else:
-			print chaoxing.reqTask(passTaskUrl[i],session)
+			print chaoxing.reqTask(passTaskUrl[i],session) 
