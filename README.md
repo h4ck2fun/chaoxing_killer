@@ -1,5 +1,6 @@
 # chaoxing_killer
 ### 使用说明
+### 目前只支持广东东软学院一键刷课 :)
 ### python 版本：2.7
 ### 所用到的库：requests、BeautifulSoup
 #### 1、登录：手工输入账号密码，查看目录下的code.jpg，识别验证码后输入
